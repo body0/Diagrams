@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T09:57:51.299Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="oB7ngoAfbUGIom1vqHRa" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-23T10:21:22.090Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="7oRDI7JALeA7v4PNe0h2" version="13.1.3" type="github">
   <diagram id="LgasBoGG3FsovCFmSBIw" name="Page-1">
-    <mxGraphModel dx="2370" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5688" dy="4276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,24 +22,6 @@
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;JWT Secret&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" vertex="1" parent="1">
           <mxGeometry x="1830" y="-240" width="25" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="25" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="200" y="470" width="25" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="47" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_orange;" vertex="1" parent="1">
-          <mxGeometry x="153" y="230" width="47" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-9" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_green;" vertex="1" parent="1">
-          <mxGeometry x="113" y="390" width="47" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-10" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_ghosted;" vertex="1" parent="1">
-          <mxGeometry x="189" y="378" width="47" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-30" value="&lt;span style=&quot;font-size: 25px&quot;&gt;$XYZ API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1665" y="-330" width="110" height="50" as="geometry" />
         </mxCell>
@@ -57,9 +39,6 @@
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-39" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Jotio API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1147.5" y="-330" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-48" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;" vertex="1" parent="1">
-          <mxGeometry x="256" y="210" width="38" height="52" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-51" value="&lt;span style=&quot;font-size: 15px&quot;&gt;ECC (encrypt&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#CCCBCB;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="-240" width="25" height="53" as="geometry" />
@@ -260,57 +239,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-135" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="4242" y="-220" width="450" height="110" as="geometry" />
+          <mxGeometry x="3901" y="-210" width="450" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-136" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="4822" y="-220" width="265" height="110" as="geometry" />
+          <mxGeometry x="4481" y="-210" width="265" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-137" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="5232" y="-220" width="265" height="110" as="geometry" />
+          <mxGeometry x="4879" y="-210" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-138" value="&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-style: initial; text-decoration-color: initial; font-size: 15px;&quot;&gt;ECC (encrypt&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-style: initial; text-decoration-color: initial; font-size: 15px;&quot;&gt;)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
-          <mxGeometry x="4393" y="-200" width="25" height="53" as="geometry" />
+          <mxGeometry x="4052" y="-190" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-139" value="&lt;font style=&quot;font-size: 15px&quot;&gt;JWT Secret&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="4602" y="-200" width="25" height="53" as="geometry" />
+          <mxGeometry x="4261" y="-190" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-140" value="&lt;span style=&quot;font-size: 25px&quot;&gt;$XYZ API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4437" y="-290" width="110" height="50" as="geometry" />
+          <mxGeometry x="4096" y="-280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-141" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Servis&lt;br&gt;App&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4899.5" y="-290" width="110" height="50" as="geometry" />
+          <mxGeometry x="4558.5" y="-280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-142" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Device&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5309.5" y="-300" width="110" height="50" as="geometry" />
+          <mxGeometry x="4968.5" y="-290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-143" value="&lt;span style=&quot;font-size: 15px&quot;&gt;ECC (decrypt)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#CCCBCB;" vertex="1" parent="1">
-          <mxGeometry x="5352" y="-210" width="25" height="53" as="geometry" />
+          <mxGeometry x="4949" y="-193" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-144" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4480" y="460" as="sourcePoint" />
-            <mxPoint x="4479.5" y="-84" as="targetPoint" />
+            <mxPoint x="4139" y="330" as="sourcePoint" />
+            <mxPoint x="4138.5" y="-74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-145" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4940" y="110" as="sourcePoint" />
-            <mxPoint x="4939.5" y="-84" as="targetPoint" />
+            <mxPoint x="4599" y="120" as="sourcePoint" />
+            <mxPoint x="4598.5" y="-74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-146" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5350" y="930" as="sourcePoint" />
-            <mxPoint x="5349.5" y="-84" as="targetPoint" />
+            <mxPoint x="5009" y="570" as="sourcePoint" />
+            <mxPoint x="5008.5" y="-74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-147" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;ECC (decrypt&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
-          <mxGeometry x="4505" y="-200" width="25" height="53" as="geometry" />
+          <mxGeometry x="4164" y="-190" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-148" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4932" y="-40" as="sourcePoint" />
-            <mxPoint x="4492" as="targetPoint" />
+            <mxPoint x="4591" y="-30" as="sourcePoint" />
+            <mxPoint x="4151" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-149" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Login&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMCEyGu6VI2UjbXGp_1P-148">
@@ -320,127 +299,98 @@
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-150" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4502" y="10" as="sourcePoint" />
-            <mxPoint x="4912" y="80" as="targetPoint" />
+            <mxPoint x="4149" y="30" as="sourcePoint" />
+            <mxPoint x="4579" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-151" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="4813" y="118" width="265" height="110" as="geometry" />
+          <mxGeometry x="4472" y="128" width="265" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-152" value="JWT" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_blue;" vertex="1" parent="1">
-          <mxGeometry x="4922" y="144" width="47" height="58" as="geometry" />
+          <mxGeometry x="4581" y="154" width="47" height="58" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-153" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4945" y="1230" as="sourcePoint" />
-            <mxPoint x="4944.79" y="250" as="targetPoint" />
+            <mxPoint x="4599" y="970" as="sourcePoint" />
+            <mxPoint x="4603.79" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-154" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4969" y="650" as="sourcePoint" />
-            <mxPoint x="5322" y="708" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-155" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Init communication&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMCEyGu6VI2UjbXGp_1P-154">
-          <mxGeometry x="-0.2366" y="-2" relative="1" as="geometry">
-            <mxPoint x="48" y="6.73" as="offset" />
+            <mxPoint x="4629" y="500" as="sourcePoint" />
+            <mxPoint x="4979" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-156" value="JWT" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_blue;" vertex="1" parent="1">
-          <mxGeometry x="4702" y="20" width="47" height="58" as="geometry" />
+          <mxGeometry x="4361" y="30" width="47" height="58" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-157" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4922" y="400" as="sourcePoint" />
-            <mxPoint x="4512" y="450" as="targetPoint" />
+            <mxPoint x="4589" y="280" as="sourcePoint" />
+            <mxPoint x="4171" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-158" value="&lt;font style=&quot;font-size: 15px&quot;&gt;D Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;" vertex="1" parent="1">
-          <mxGeometry x="4682" y="393" width="38" height="55" as="geometry" />
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-158" value="&lt;font style=&quot;font-size: 15px&quot;&gt;S&amp;nbsp;Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;" vertex="1" parent="1">
+          <mxGeometry x="4315" y="263" width="38" height="55" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-160" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5339.5" y="728" as="sourcePoint" />
-            <mxPoint x="4962" y="768" as="targetPoint" />
+            <mxPoint x="4996.5" y="680" as="sourcePoint" />
+            <mxPoint x="4619" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-161" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Device ID&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMCEyGu6VI2UjbXGp_1P-160">
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-161" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Session ID&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMCEyGu6VI2UjbXGp_1P-160">
           <mxGeometry x="-0.2366" y="-2" relative="1" as="geometry">
-            <mxPoint x="-41.94" y="6.73" as="offset" />
+            <mxPoint x="-40.94" y="6.73" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-162" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4477.789999999999" y="1082" as="sourcePoint" />
-            <mxPoint x="4477" y="550" as="targetPoint" />
+            <mxPoint x="4136" y="960" as="sourcePoint" />
+            <mxPoint x="4136" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-163" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Verify&amp;nbsp;JWT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="4418" y="476" width="120" height="60" as="geometry" />
+          <mxGeometry x="4077" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-164" value="JWT" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_blue;" vertex="1" parent="1">
-          <mxGeometry x="4742" y="390" width="47" height="58" as="geometry" />
+          <mxGeometry x="4399" y="260" width="47" height="58" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-166" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4512" y="800" as="sourcePoint" />
-            <mxPoint x="4922" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-167" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;ECC (decrypt&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
-          <mxGeometry x="4742" y="799" width="25" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-168" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4962" y="852" as="sourcePoint" />
-            <mxPoint x="5341.500000000001" y="892" as="targetPoint" />
+            <mxPoint x="4164" y="440" as="sourcePoint" />
+            <mxPoint x="4574" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-169" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;ECC (decrypt&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 15px&quot;&gt;)&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
-          <mxGeometry x="5192" y="852" width="25" height="53" as="geometry" />
+          <mxGeometry x="5069" y="-193" width="25" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-170" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Verify D Token&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="5292" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-171" value="D Token" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_ghosted;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4635" y="782" width="47" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-172" value="D Token" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_ghosted;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5072" y="830" width="47" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-176" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5351" y="1050" as="sourcePoint" />
-            <mxPoint x="5351" y="1010" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-170" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Verify S Token&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="4949" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMCEyGu6VI2UjbXGp_1P-177" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5350" y="1500" as="sourcePoint" />
-            <mxPoint x="5350.33" y="1183" as="targetPoint" />
+            <mxPoint x="5009" y="970" as="sourcePoint" />
+            <mxPoint x="5009.33" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-178" value="&lt;font style=&quot;font-size: 18px&quot;&gt;OK&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5339.5" y="1200" as="sourcePoint" />
-            <mxPoint x="4962" y="1240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5152" y="1220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-180" value="&lt;h1&gt;S Token - request&lt;/h1&gt;&lt;div&gt;Device ID List&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3497" y="22" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-179" value="&lt;font style=&quot;font-size: 15px&quot;&gt;D Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="14" width="38" height="55" as="geometry" />
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-182" value="&lt;h1&gt;S Token - response&lt;/h1&gt;&lt;div&gt;Sorted Device ID List, Expire Timestamp, Permissions List&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3499" y="152" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-180" value="&lt;h1&gt;S Token - request&lt;/h1&gt;&lt;div&gt;Device ID,&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3838" y="4" width="210" height="120" as="geometry" />
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-187" value="&lt;font style=&quot;font-size: 15px&quot;&gt;S&amp;nbsp;Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;" vertex="1" parent="1">
+          <mxGeometry x="3439" y="23" width="38" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-181" value="D Token" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_ghosted;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="142" width="47" height="58" as="geometry" />
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-188" value="&lt;font style=&quot;font-size: 15px&quot;&gt;S Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="172" width="47" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="JMCEyGu6VI2UjbXGp_1P-182" value="&lt;h1&gt;S Token - response&lt;/h1&gt;&lt;div&gt;Device ID, Random number,&amp;nbsp;permissions list&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="142" width="210" height="120" as="geometry" />
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-191" value="&lt;font style=&quot;font-size: 15px&quot;&gt;S Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;" vertex="1" parent="1">
+          <mxGeometry x="4349" y="430" width="47" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JMCEyGu6VI2UjbXGp_1P-193" value="&lt;font style=&quot;font-size: 15px&quot;&gt;S Token&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;" vertex="1" parent="1">
+          <mxGeometry x="4789" y="500" width="47" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
